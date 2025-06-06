@@ -16,7 +16,7 @@ Esse repositório faz parte da minha transição de carreira para a área de TI 
 
 ## 🗂️ Estrutura
 
-📁 modulo1/
+📁 modulo1/ (aula3)
  📄 mario.c          // exercício 1
  📄 mario2.c         // exercício 2 (desafio)
  📄 dinheiro.c       // exercício 3
