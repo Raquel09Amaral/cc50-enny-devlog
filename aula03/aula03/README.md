@@ -1,4 +1,4 @@
-# 📘 aula03 - Laços e estruturas de repetição
+# 📘 Módulo 1 - Laços e estruturas de repetição
 
 Esta pasta contém os exercícios práticos da aula 03 do curso [CC50 - Introdução à Ciência da Computação](https://cs50.harvard.edu/), com foco em laços (`for`, `while`, `do while`) e estruturas de repetição em linguagem C.
 
