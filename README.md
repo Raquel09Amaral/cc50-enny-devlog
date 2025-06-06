@@ -16,10 +16,13 @@ Esse repositório faz parte da minha transição de carreira para a área de TI 
 
 ## 🗂️ Estrutura
 
-- `aula01/`: Programas iniciais (Hello World, entrada/saída)
-- `aula02/`: Condicionais e operadores
-- `aula03/`: Laços e estruturas de repetição
-- `aula04/`: Arrays, strings e memória
+📁 modulo1/
+ 📄 mario.c          // exercício 1
+ 📄 mario2.c         // exercício 2 (desafio)
+ 📄 dinheiro.c       // exercício 3
+ 📄 credito.c        // exercício 4 (desafio)
+ 📄 populacao.c      // laboratório 1
+ 📄 README.md        // explicando o que tem nesse módulo
 - (mais aulas virão à medida que avanço!)
 
 ---
