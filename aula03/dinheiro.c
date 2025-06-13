@@ -31,3 +31,4 @@ int main(void)
     printf("Total de moedas: %i\n", total_moedas);
 }
 
+
