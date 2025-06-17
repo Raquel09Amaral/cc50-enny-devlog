@@ -7,7 +7,8 @@ int main(void)
     long numero_cartao;
     printf("Digite o número do cartão: ");
     scanf("%ld", &numero_cartao);
-    long temp = numero_cartao;
+    
+long temp = numero_cartao;
     int soma = 0;
     int digito;
     int contador = 0;
